@@ -5,16 +5,19 @@ function Home(){
         <h4>Home</h4>
 
         <Link href="/sobre">
-            <a>Acessar página Sobre\n</a>
+            <a>Acessar página Sobre</a>
         </Link>
+        <br></br> 
 
         <Link href="/tempo">
-            <a>Acessar página Tempo\n</a>
+            <a>Acessar página Tempo</a>
         </Link>
+        <br></br>
 
         <Link href="/api/tempo">
-            <a>Acessar página Tempo da api\n</a>S
-        </Link> 
+            <a>Acessar página Tempo da api</a>
+        </Link>
+        <br></br>         
     </div>)
 }
 
