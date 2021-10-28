@@ -13,7 +13,7 @@ function Home(){
         </Link>
 
         <Link href="/api/tempo">
-            <a>Acessar página Tempo da api</a>
+            <a>Acessar página Tempo da api</a>S
         </Link> 
     </div>)
 }
